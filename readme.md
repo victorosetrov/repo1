@@ -1,7 +1,7 @@
 # Week 2 Lab – Bash & Git
-Viktor Osetrov
-***x19223633***
-[repo1](https://github.com/victorosetrov/repo1) 
+Viktor Osetrov.
+***x19223633***.
+[repo1](https://github.com/victorosetrov/repo1). 
 
 ---
 
